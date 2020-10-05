@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: self_localization_selector_process
+Description: Description of self_localization_selector_process
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: angles lib_pugixml roscpp std_msgs drone_process droneMsgsROS

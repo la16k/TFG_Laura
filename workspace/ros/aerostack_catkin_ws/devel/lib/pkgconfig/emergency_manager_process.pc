@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: emergency_manager_process
+Description: Description of emergency_manager_process
+Version: 1.0.0
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/mission_control_system/emergency_manager/emergency_manager_process/src/include
+Libs: -L${prefix}/lib -lemergency_manager_process
+Requires: roscpp std_msgs aerostack_msgs robot_process droneMsgsROS

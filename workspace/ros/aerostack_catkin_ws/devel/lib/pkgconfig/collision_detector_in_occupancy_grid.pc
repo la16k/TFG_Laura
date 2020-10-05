@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: collision_detector_in_occupancy_grid
+Description: Description of collision_detector_in_occupancy_grid
+Version: 1.0.0
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/motion_control_system/collision_detector_in_occupancy_grid/src/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs robot_process droneMsgsROS aerostack_msgs

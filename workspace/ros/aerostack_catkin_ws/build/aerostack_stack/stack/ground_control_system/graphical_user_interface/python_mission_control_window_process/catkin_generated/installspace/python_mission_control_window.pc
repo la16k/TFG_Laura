@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: python_mission_control_window
+Description: Description of python_mission_control_window
+Version: 3.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: angles lib_pugixml

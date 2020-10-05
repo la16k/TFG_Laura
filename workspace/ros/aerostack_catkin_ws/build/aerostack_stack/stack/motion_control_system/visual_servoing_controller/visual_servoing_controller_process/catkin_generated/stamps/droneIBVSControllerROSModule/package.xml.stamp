@@ -1,0 +1,38 @@
+<package>
+	<name>droneIBVSControllerROSModule</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is droneIBVSControllerROSModule.
+	</description>
+	<author email="hriday.bavle@gmail.com">Hriday Bavle</author>
+	<maintainer email="hriday.bavle@gmail.com">Hriday Bavle</maintainer>
+  	<license>BSD</license>
+	<url>https://bitbucket.org/hridaybavle/droneibvscontrollerrosmodule</url>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+
+  	<build_depend>roscpp</build_depend>
+	<build_depend>std_msgs</build_depend>
+	<build_depend>geometry_msgs</build_depend>
+        <build_depend>sensor_msgs</build_depend>
+        <build_depend>cv_bridge</build_depend>
+        <build_depend>image_transport</build_depend>
+	<build_depend>droneModuleROS</build_depend>
+	<build_depend>droneMsgsROS</build_depend>
+	<build_depend>droneIBVSController</build_depend>
+
+	<run_depend>roscpp</run_depend>
+	<run_depend>std_msgs</run_depend>
+	<run_depend>geometry_msgs</run_depend>
+        <run_depend>sensor_msgs</run_depend>
+        <run_depend>cv_bridge</run_depend>
+        <run_depend>image_transport</run_depend>
+	<run_depend>droneModuleROS</run_depend>
+	<run_depend>droneMsgsROS</run_depend>
+	<run_depend>droneIBVSController</run_depend>
+
+  
+</package>
+
+

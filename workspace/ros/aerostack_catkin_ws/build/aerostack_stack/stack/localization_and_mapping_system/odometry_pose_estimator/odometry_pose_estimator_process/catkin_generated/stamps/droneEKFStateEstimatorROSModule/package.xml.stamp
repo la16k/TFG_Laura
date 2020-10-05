@@ -1,0 +1,34 @@
+<package>
+	<name>droneEKFStateEstimatorROSModule</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is droneEKFStateEstimatorROSModule.
+	</description>
+	<author email="jespestana@gmail.com">Jesus Pestana Puerta</author>
+	<maintainer email="jespestana@gmail.com">Jesus Pestana Puerta</maintainer>
+  	<license>GPLv3</license>
+	<url>http://ros.org/wiki/droneEKFStateEstimator</url>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+
+  	<build_depend>roscpp</build_depend>
+	<build_depend>droneModuleROS</build_depend>
+	<build_depend>droneMsgsROS</build_depend>
+        <build_depend>sensor_msgs</build_depend>
+	<build_depend>droneEKFStateEstimator</build_depend>
+	<build_depend>lib_cvglogger</build_depend>
+	<build_depend>lib_cvgloggerROS</build_depend>
+
+	<run_depend>roscpp</run_depend>
+	<run_depend>droneModuleROS</run_depend>
+	<run_depend>droneMsgsROS</run_depend>
+        <run_depend>sensor_msgs</run_depend>
+	<run_depend>droneEKFStateEstimator</run_depend>
+	<run_depend>lib_cvglogger</run_depend>
+	<run_depend>lib_cvgloggerROS</run_depend>
+
+
+</package>
+
+

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_cvgekf/src/include/extendedKalmanFilter.h
+matrixLib.h
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_cvgekf/src/include/matrixLib.h
+model.h
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_cvgekf/src/include/model.h
+
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_cvgekf/src/include/model.h
+matrixLib.h
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_cvgekf/src/include/matrixLib.h
+
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_cvgekf/src/source/extendedKalmanFilter.cpp
+extendedKalmanFilter.h
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_cvgekf/src/source/extendedKalmanFilter.h
+
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_cvgekf/src/source/model.cpp
+model.h
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_cvgekf/src/source/model.h
+
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_cvgutils/src/include/matrixLib.h
+math.h
+-
+stdio.h
+-
+opencv2/core/core.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+

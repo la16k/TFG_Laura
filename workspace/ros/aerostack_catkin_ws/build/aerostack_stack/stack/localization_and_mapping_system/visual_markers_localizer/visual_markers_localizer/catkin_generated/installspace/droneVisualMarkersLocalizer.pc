@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: droneVisualMarkersLocalizer
+Description: Description of droneVisualMarkersLocalizer
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ldroneVisualMarkersLocalizer
+Requires: pugixml lib_newmat11

@@ -1,0 +1,21 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~position_kp" : \b [double] Position controller kp gain min: 0.0, default: 1.04, max: 50.0
+- \b "~position_ki" : \b [double] Position controller Ki gain min: 0.0, default: 0.0, max: 50.0
+- \b "~position_kd" : \b [double] Position controller Kd gain min: 0.0, default: 0.99, max: 50.0
+- \b "~speed_kp" : \b [double] Speed controller kp gain min: 0.0, default: 7.1521, max: 50.0
+- \b "~speed_ki" : \b [double] Speed controller Ki gain min: 0.0, default: 7.1521, max: 50.0
+- \b "~speed_kd" : \b [double] Speed	 controller Kd gain min: 0.0, default: 1.5534, max: 50.0
+- \b "~yaw_kp" : \b [double] Yaw controller kp gain min: 0.0, default: 1.6, max: 50.0
+- \b "~yaw_ki" : \b [double] Yaw controller ki gain min: 0.0, default: 0.0, max: 50.0
+- \b "~yaw_kd" : \b [double] Yaw controller kd gain min: 0.0, default: 0.67, max: 50.0
+- \b "~altitude_kp" : \b [double] altitude controller kp gain min: 0.0, default: 1.33, max: 50.0
+- \b "~altitude_ki" : \b [double] altitude controller ki gain min: 0.0, default: 0.0, max: 50.0
+- \b "~altitude_kd" : \b [double] altitude controller kd gain min: 0.0, default: 0.35, max: 50.0
+- \b "~position_deltaK" : \b [double] Position	controller deltaK gain min: 0.0, default: 0.35, max: 10.0
+- \b "~speed_deltaK" : \b [double] Speed	controller deltaK gain min: 0.0, default: 0.045, max: 10.0
+- \b "~yaw_deltaK" : \b [double] yaw	controller deltaK gain min: 0.0, default: 1.0, max: 10.0
+- \b "~altitude_deltaK" : \b [double] altitude	controller deltaK gain min: -10.0, default: -1.0, max: 10.0
+

@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: behavior_inform_operator
+Description: Description of behavior_inform_operator
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: droneMsgsROS roscpp std_msgs behavior_execution_controller nodelet aerostack_msgs

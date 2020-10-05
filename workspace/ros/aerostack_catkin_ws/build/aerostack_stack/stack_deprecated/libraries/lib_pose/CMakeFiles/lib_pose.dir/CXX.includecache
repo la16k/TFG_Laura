@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/libraries/lib_pose/src/include/pose.h
+iostream
+-
+string
+-
+vector
+-
+opencv2/opencv.hpp
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/libraries/lib_pose/src/include/opencv2/opencv.hpp
+
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/libraries/lib_pose/src/include/poseOperations.h
+iostream
+-
+string
+-
+vector
+-
+opencv2/opencv.hpp
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/libraries/lib_pose/src/include/opencv2/opencv.hpp
+pose.h
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/libraries/lib_pose/src/include/pose.h
+
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/libraries/lib_pose/src/sources/pose.cpp
+pose.h
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/libraries/lib_pose/src/sources/pose.h
+
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/libraries/lib_pose/src/sources/poseOperations.cpp
+poseOperations.h
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/libraries/lib_pose/src/sources/poseOperations.h
+

@@ -1,0 +1,26 @@
+<package>
+	<name>referenceFramesROS</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is referenceFramesROS.
+	</description>
+	<author email="jl.sanchez@upm.es">Jose Luis Sanchez-Lopez</author>
+	<maintainer email="jl.sanchez@upm.es">Jose Luis Sanchez-Lopez</maintainer>
+  	<license>GPLv3</license>
+	<url>http://ros.org/wiki/referenceFramesROS</url>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+
+	<build_depend>droneMsgsROS</build_depend>
+	<build_depend>droneVisualMarkersLocalizer</build_depend>
+	<build_depend>lib_cvgutils</build_depend>
+
+	<run_depend>droneMsgsROS</run_depend>
+	<run_depend>droneVisualMarkersLocalizer</run_depend>
+	<run_depend>lib_cvgutils</run_depend>
+
+
+</package>
+
+

@@ -1,0 +1,24 @@
+<package>
+	<name>droneSimulator</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is droneSimulator.
+	</description>
+	<author email="jespestana@gmail.com">Jesus Pestana Puerta</author>
+	<maintainer email="jespestana@gmail.com">Jesus Pestana Puerta</maintainer>
+  	<license>GPLv3</license>
+	<url>http://ros.org/wiki/droneSimulator</url>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+
+	<build_depend>lib_cvgutils</build_depend>
+	<build_depend>lib_cvgekf</build_depend>
+
+	<run_depend>lib_cvgutils</run_depend>
+	<run_depend>lib_cvgekf</run_depend>
+
+
+</package>
+
+

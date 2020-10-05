@@ -1,0 +1,25 @@
+<package>
+	<name>LEVMAR</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is LEVMAR.
+	</description>
+	<author email="jl.sanchez@upm.es">Jose Luis Sanchez-Lopez</author>
+	<maintainer email="jl.sanchez@upm.es">Jose Luis Sanchez-Lopez</maintainer>
+  	<license>BSD</license>
+	<url>http://ros.org/wiki/LEVMAR</url>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+<build_depend>liblapack-dev</build_depend>
+<build_depend>libblas-dev</build_depend>
+<build_depend>f2c</build_depend>
+
+	<run_depend>liblapack-dev</run_depend>
+	<run_depend>libblas-dev</run_depend>
+	<run_depend>f2c</run_depend>
+
+
+</package>
+
+

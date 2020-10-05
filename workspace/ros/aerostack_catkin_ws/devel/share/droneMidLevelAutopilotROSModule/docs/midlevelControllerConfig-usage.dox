@@ -1,0 +1,10 @@
+\subsubsection usage Usage
+\verbatim
+<node name="midlevelControllerROSModuleNode" pkg="midlevelControllerROSModule" type="midlevelControllerROSModuleNode">
+  <param name="altitude_feedforward" type="double" value="1.7" />
+  <param name="altitude_kp" type="double" value="0.04" />
+  <param name="altitude_ki" type="double" value="0.01" />
+  <param name="altitude_kd" type="double" value="0.0" />
+</node>
+\endverbatim
+

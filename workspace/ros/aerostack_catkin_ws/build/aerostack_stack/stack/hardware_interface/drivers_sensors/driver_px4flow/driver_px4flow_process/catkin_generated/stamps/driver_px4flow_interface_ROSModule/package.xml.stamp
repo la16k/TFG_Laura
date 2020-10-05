@@ -1,0 +1,30 @@
+<package>
+	<name>driver_px4flow_interface_ROSModule</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is driver_px4flow_interface_ROSModule.
+	</description>
+	<author email="jespestana@gmail.com">Jesus Pestana Puerta</author>
+	<maintainer email="jespestana@gmail.com">Jesus Pestana Puerta</maintainer>
+  	<license>GPLv3</license>
+	<url>http://ros.org/wiki/driver_px4flow_interface_ROSModule</url>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+
+  	<build_depend>roscpp</build_depend>
+	<build_depend>px_comm</build_depend>
+	<build_depend>droneModuleROS</build_depend>
+	<build_depend>droneMsgsROS</build_depend>
+	<build_depend>lib_cvgutils</build_depend>
+
+	<run_depend>roscpp</run_depend>
+	<run_depend>px_comm</run_depend>
+	<run_depend>droneModuleROS</run_depend>
+	<run_depend>droneMsgsROS</run_depend>
+	<run_depend>lib_cvgutils</run_depend>
+
+
+</package>
+
+

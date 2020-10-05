@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: cereal_port
+Description: Description of cereal_port
+Version: 1.0.0
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/hardware_interface/drivers_sensors/driver_lightware/cereal_port/include
+Libs: -L${prefix}/lib -lCerealPort
+Requires: roscpp

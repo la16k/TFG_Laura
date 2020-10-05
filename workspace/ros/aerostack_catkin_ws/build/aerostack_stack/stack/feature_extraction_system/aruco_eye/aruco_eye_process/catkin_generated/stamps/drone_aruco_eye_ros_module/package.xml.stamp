@@ -1,0 +1,37 @@
+<package>
+	<name>drone_aruco_eye_ros_module</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is drone_aruco_eye_ros_module.
+	</description>
+	<author email="jl.sanchez@upm.es">Jose Luis Sanchez-Lopez</author>
+	<maintainer email="jl.sanchez@upm.es">Jose Luis Sanchez-Lopez</maintainer>
+  	<license>GPLv3</license>
+	<url>http://ros.org/wiki/drone_aruco_eye_ros_module</url>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+
+  	<build_depend>roscpp</build_depend>
+	<build_depend>image_transport</build_depend>
+	<build_depend>cv_bridge</build_depend>
+	<build_depend>droneMsgsROS</build_depend>
+	<build_depend>droneModuleROS</build_depend>
+	<build_depend>referenceFrames</build_depend>
+	<build_depend>lib_cvgutils</build_depend>
+	<build_depend>aruco_eye_ros</build_depend>
+
+	<run_depend>roscpp</run_depend>
+	<run_depend>image_transport</run_depend>
+	<run_depend>cv_bridge</run_depend>
+	<run_depend>droneMsgsROS</run_depend>
+	<run_depend>droneModuleROS</run_depend>
+	<run_depend>referenceFrames</run_depend>
+	<run_depend>lib_cvgutils</run_depend>
+	<run_depend>aruco_eye_ros</run_depend>
+ 
+  
+
+</package>
+
+

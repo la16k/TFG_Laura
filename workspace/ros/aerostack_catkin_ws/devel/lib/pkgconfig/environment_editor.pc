@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: environment_editor
+Description: Description of environment_editor
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: angles lib_pugixml

@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: driverPixhawkROSModule
+Description: Description of driverPixhawkROSModule
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs sensor_msgs gazebo_msgs mavros droneModuleROS droneMsgsROS lib_cvgutils tf_conversions

@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: drone_mid_level_autopilot
+Description: Description of drone_mid_level_autopilot
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -ldrone_mid_level_autopilot
+Requires: lib_pugixml lib_cvgutils

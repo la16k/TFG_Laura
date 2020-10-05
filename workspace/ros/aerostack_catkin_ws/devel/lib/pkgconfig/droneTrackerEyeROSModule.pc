@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: droneTrackerEyeROSModule
+Description: Description of droneTrackerEyeROSModule
+Version: 1.0.0
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/feature_extraction_system/tracker_eye/tracker_eye_process/src/include
+Libs: -L${prefix}/lib -ldroneTrackerEye
+Requires: roscpp std_msgs droneMsgsROS droneModuleROS

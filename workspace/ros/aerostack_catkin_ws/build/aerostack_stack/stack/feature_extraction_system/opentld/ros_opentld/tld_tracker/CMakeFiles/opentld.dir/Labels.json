@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/lak/workspace/ros/aerostack_catkin_ws/build/aerostack_stack/stack/feature_extraction_system/opentld/ros_opentld/tld_tracker/CMakeFiles/opentld"
+		},
+		{
+			"file" : "/home/lak/workspace/ros/aerostack_catkin_ws/build/aerostack_stack/stack/feature_extraction_system/opentld/ros_opentld/tld_tracker/CMakeFiles/opentld.rule"
+		},
+		{
+			"file" : "/home/lak/workspace/ros/aerostack_catkin_ws/build/aerostack_stack/stack/feature_extraction_system/opentld/ros_opentld/tld_tracker/CMakeFiles/opentld-complete.rule"
+		},
+		{
+			"file" : "/home/lak/workspace/ros/aerostack_catkin_ws/build/aerostack_stack/stack/feature_extraction_system/opentld/ros_opentld/tld_tracker/libopentld/src/opentld-stamp/opentld-install.rule"
+		},
+		{
+			"file" : "/home/lak/workspace/ros/aerostack_catkin_ws/build/aerostack_stack/stack/feature_extraction_system/opentld/ros_opentld/tld_tracker/libopentld/src/opentld-stamp/opentld-mkdir.rule"
+		},
+		{
+			"file" : "/home/lak/workspace/ros/aerostack_catkin_ws/build/aerostack_stack/stack/feature_extraction_system/opentld/ros_opentld/tld_tracker/libopentld/src/opentld-stamp/opentld-download.rule"
+		},
+		{
+			"file" : "/home/lak/workspace/ros/aerostack_catkin_ws/build/aerostack_stack/stack/feature_extraction_system/opentld/ros_opentld/tld_tracker/libopentld/src/opentld-stamp/opentld-update.rule"
+		},
+		{
+			"file" : "/home/lak/workspace/ros/aerostack_catkin_ws/build/aerostack_stack/stack/feature_extraction_system/opentld/ros_opentld/tld_tracker/libopentld/src/opentld-stamp/opentld-patch.rule"
+		},
+		{
+			"file" : "/home/lak/workspace/ros/aerostack_catkin_ws/build/aerostack_stack/stack/feature_extraction_system/opentld/ros_opentld/tld_tracker/libopentld/src/opentld-stamp/opentld-configure.rule"
+		},
+		{
+			"file" : "/home/lak/workspace/ros/aerostack_catkin_ws/build/aerostack_stack/stack/feature_extraction_system/opentld/ros_opentld/tld_tracker/libopentld/src/opentld-stamp/opentld-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"opentld"
+		],
+		"name" : "opentld"
+	}
+}

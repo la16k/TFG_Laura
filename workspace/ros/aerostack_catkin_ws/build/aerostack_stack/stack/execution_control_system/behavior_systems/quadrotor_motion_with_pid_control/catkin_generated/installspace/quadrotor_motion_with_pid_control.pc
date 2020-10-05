@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: quadrotor_motion_with_pid_control
+Description: Description of quadrotor_motion_with_pid_control
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lquadrotor_motion_with_pid_control
+Requires: roscpp nodelet std_msgs drone_process behavior_execution_controller droneMsgsROS geometry_msgs aerostack_msgs

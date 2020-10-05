@@ -1,0 +1,23 @@
+<package>
+	<name>obstacle_detector_visual_markers_2d</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is obstacle_detector_visual_markers_2d.
+	</description>
+	<author email="jl.sanchez@upm.es">Paloma de la Puente and Jose Luis Sanchez-Lopez</author>
+	<maintainer email="jl.sanchez@upm.es">Jose Luis Sanchez-Lopez</maintainer>
+  	<license>GPLv3</license>
+	<url>http://ros.org/wiki/obstacle_detector_visual_markers_2d</url>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+	<build_depend>pugixml</build_depend>
+	<build_depend>droneVisualMarkersLocalizer</build_depend>
+
+	<run_depend>pugixml</run_depend>
+	<run_depend>droneVisualMarkersLocalizer</run_depend>
+
+
+</package>
+
+

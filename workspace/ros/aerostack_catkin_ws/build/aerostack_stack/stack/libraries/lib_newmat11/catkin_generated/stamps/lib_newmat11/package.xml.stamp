@@ -1,0 +1,17 @@
+<package>
+	<name>lib_newmat11</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is lib_newmat11.
+	</description>
+	<author email="jl.sanchez@upm.es">Jose Luis Sanchez-Lopez and Paloma de la Puente</author>
+	<maintainer email="jl.sanchez@upm.es">Jose Luis Sanchez-Lopez</maintainer>
+  	<license>BSD</license>
+	<url>http://ros.org/wiki/lib_newmat11</url>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+
+</package>
+
+

@@ -1,0 +1,16 @@
+-I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/execution_control_system/behaviors/behavior_request_operator_assistance/src/controller/include
+-I/home/lak/workspace/ros/aerostack_catkin_ws/devel/include
+-I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/common/droneMsgsROS/src/include
+-I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/common/behavior_execution_controller/src/include
+-I/opt/ros/melodic/include
+-I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp
+-I/usr/include
+-I/usr/include/qwt
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="behavior_request_operator_assistance"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-DQT_NO_KEYWORDS
+-o
+/home/lak/workspace/ros/aerostack_catkin_ws/build/aerostack_stack/stack/execution_control_system/behaviors/behavior_request_operator_assistance/src/controller/include/moc_behavior_request_operator_assistance.cpp
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/execution_control_system/behaviors/behavior_request_operator_assistance/src/controller/include/behavior_request_operator_assistance.h

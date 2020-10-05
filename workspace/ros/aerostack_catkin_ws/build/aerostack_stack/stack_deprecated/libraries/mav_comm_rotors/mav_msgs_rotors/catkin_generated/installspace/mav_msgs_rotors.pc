@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: mav_msgs_rotors
+Description: Description of mav_msgs_rotors
+Version: 3.2.0
+Cflags: -I${prefix}/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs geometry_msgs trajectory_msgs

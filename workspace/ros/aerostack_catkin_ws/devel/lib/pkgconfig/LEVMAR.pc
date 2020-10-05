@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: LEVMAR
+Description: Description of LEVMAR
+Version: 1.0.0
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_levmar-2.6/./ -I/usr/include
+Libs: -L${prefix}/lib -llevmar
+Requires: 

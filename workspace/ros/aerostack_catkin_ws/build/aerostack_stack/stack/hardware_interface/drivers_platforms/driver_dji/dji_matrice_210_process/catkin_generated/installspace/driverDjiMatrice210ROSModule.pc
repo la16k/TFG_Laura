@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: driverDjiMatrice210ROSModule
+Description: Description of driverDjiMatrice210ROSModule
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs sensor_msgs mavros droneModuleROS dji_sdk droneMsgsROS lib_cvgutils tf_conversions mav_msgs

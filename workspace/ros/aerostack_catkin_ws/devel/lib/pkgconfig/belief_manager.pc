@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: belief_manager
+Description: Description of belief_manager
+Version: 1.0.0
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/belief_management_system/belief_manager/belief_manager/src/include
+Libs: -L${prefix}/lib -lbelief_manager
+Requires: 

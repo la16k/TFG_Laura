@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: first_person_viewer
+Description: Description of first_person_viewer
+Version: 0.5.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lfirst_person_viewer
+Requires: sensor_msgs cv_bridge roscpp std_msgs image_transport droneMsgsROS angles lib_pugixml

@@ -1,0 +1,30 @@
+<package>
+	<name>droneTrajectoryController</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is droneTrajectoryController.
+	</description>
+	<author email="jespestana@gmail.com">Jesus Pestana Puerta</author>
+	<maintainer email="jespestana@gmail.com">Jesus Pestana Puerta</maintainer>
+  	<license>GPLv3</license>
+	<url>http://ros.org/wiki/droneTrajectoryController</url>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+
+  	<build_depend>referenceFrames</build_depend>
+	<build_depend>lib_cvglogger</build_depend>
+  	<build_depend>droneSpeedPositionMidLevelController</build_depend>
+  	<build_depend>dronePBVSPositionMidLevelController</build_depend>
+  	<build_depend>droneTrajectoryStateMachine</build_depend>
+
+	<run_depend>referenceFrames</run_depend>
+	<run_depend>lib_cvglogger</run_depend>
+	<run_depend>droneSpeedPositionMidLevelController</run_depend>
+	<run_depend>dronePBVSPositionMidLevelController</run_depend>
+	<run_depend>droneTrajectoryStateMachine</run_depend>
+
+
+</package>
+
+

@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: visual_markers_localizer_process
+Description: Description of visual_markers_localizer_process
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp droneMsgsROS droneModuleROS droneVisualMarkersLocalizer referenceFramesROS lib_cvgutils

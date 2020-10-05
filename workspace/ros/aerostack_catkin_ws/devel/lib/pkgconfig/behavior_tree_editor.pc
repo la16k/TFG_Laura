@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: behavior_tree_editor
+Description: Description of behavior_tree_editor
+Version: 3.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: angles lib_pugixml

@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: droneVisualMarkersEyeSimulator
+Description: Description of droneVisualMarkersEyeSimulator
+Version: 1.0.0
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/simulation_system/droneVisualMarkersEyeSimulator/droneVisualMarkersEyeSimulator/src/include
+Libs: -L${prefix}/lib -ldroneVisualMarkersEyeSimulator
+Requires: lib_cvgutils lib_pugixml referenceFrames

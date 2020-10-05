@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: behavior_coordinator_process
+Description: Description of behavior_coordinator_process
+Version: 0.2.1
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/execution_control_system/behavior_coordinator/behavior_coordinator_process/src/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs robot_process aerostack_msgs droneMsgsROS

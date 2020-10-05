@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libbelief_manager.so -o /home/lak/workspace/ros/aerostack_catkin_ws/devel/lib/libbelief_manager.so CMakeFiles/belief_manager.dir/src/source/belief_lexer.cpp.o CMakeFiles/belief_manager.dir/src/source/belief_manager.cpp.o CMakeFiles/belief_manager.dir/src/source/belief_parser.cpp.o 

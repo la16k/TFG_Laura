@@ -1,0 +1,2 @@
+set(rotors_comm_MESSAGE_FILES "/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/simulation_system/rotors_simulator/rotors_comm/msg/WindSpeed.msg")
+set(rotors_comm_SERVICE_FILES "/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/simulation_system/rotors_simulator/rotors_comm/srv/Octomap.srv;/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/simulation_system/rotors_simulator/rotors_comm/srv/RecordRosbag.srv")

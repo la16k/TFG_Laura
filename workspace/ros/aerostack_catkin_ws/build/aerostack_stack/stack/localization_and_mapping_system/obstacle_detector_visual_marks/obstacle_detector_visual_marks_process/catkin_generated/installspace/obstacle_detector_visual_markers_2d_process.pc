@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: obstacle_detector_visual_markers_2d_process
+Description: Description of obstacle_detector_visual_markers_2d_process
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp visualization_msgs droneMsgsROS droneModuleROS obstacle_detector_visual_markers_2d

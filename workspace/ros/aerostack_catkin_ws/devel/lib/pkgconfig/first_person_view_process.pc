@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: first_person_view_process
+Description: Description of first_person_view_process
+Version: 0.5.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp lib_pugixml std_msgs robot_process angles first_person_viewer

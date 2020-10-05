@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_cvgutils/src/source/DMC_configuration_file_creator.cpp
+opencv2/opencv.hpp
+-
+opencv2/core/core.hpp
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/libraries/lib_cvgutils/src/source/opencv2/core/core.hpp
+iostream
+-
+string
+-
+

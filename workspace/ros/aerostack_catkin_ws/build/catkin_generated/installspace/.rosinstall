@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lak/workspace/ros/aerostack_catkin_ws/install/setup.sh

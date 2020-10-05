@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lak/workspace/ros/aerostack_catkin_ws/build/aerostack_stack/stack/ground_control_system/keyboard_teleoperation_interface/keyboard_teleoperation_interface_lib_autogen/mocs_compilation.cpp
+

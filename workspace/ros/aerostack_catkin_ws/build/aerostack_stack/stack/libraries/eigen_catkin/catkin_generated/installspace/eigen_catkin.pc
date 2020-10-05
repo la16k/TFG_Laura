@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: eigen_catkin
+Description: Description of eigen_catkin
+Version: 0.0.301
+Cflags: -I/usr/include/eigen3
+Libs: -L${prefix}/lib -leigen_catkin
+Requires: 

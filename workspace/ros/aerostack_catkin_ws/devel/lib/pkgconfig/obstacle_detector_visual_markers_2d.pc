@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: obstacle_detector_visual_markers_2d
+Description: Description of obstacle_detector_visual_markers_2d
+Version: 1.0.0
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/localization_and_mapping_system/obstacle_detector_visual_marks/obstacle_detector_visual_marks/src/include
+Libs: -L${prefix}/lib -lobstacle_detector_visual_markers_2d
+Requires: pugixml droneVisualMarkersLocalizer

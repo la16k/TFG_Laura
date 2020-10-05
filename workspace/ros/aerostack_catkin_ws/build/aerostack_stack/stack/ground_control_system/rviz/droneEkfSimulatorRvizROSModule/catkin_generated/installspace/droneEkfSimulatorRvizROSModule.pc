@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: droneEkfSimulatorRvizROSModule
+Description: Description of droneEkfSimulatorRvizROSModule
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs visualization_msgs interactive_markers droneMsgsROS

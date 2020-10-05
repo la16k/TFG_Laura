@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: driver_px4flow_interface_ROSModule
+Description: Description of driver_px4flow_interface_ROSModule
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp px_comm droneModuleROS droneMsgsROS lib_cvgutils

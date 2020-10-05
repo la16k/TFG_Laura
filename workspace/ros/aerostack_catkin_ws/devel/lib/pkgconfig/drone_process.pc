@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: drone_process
+Description: Description of drone_process
+Version: 0.2.1
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/common/drone_process/include
+Libs: -L${prefix}/lib -ldrone_process
+Requires: roscpp std_msgs droneMsgsROS std_srvs

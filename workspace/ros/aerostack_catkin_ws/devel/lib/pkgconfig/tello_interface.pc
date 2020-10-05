@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: tello_interface
+Description: Description of tello_interface
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: lib_cvgutils tf_conversions cv_bridge

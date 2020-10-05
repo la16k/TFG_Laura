@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: path_tracker_process
+Description: Description of path_tracker_process
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lpath_tracker_process
+Requires: roscpp robot_process

@@ -1,0 +1,22 @@
+\subsubsection usage Usage
+\verbatim
+<node name="trajectoryControllerROSModuleNode" pkg="trajectoryControllerROSModule" type="trajectoryControllerROSModuleNode">
+  <param name="position_kp" type="double" value="1.04" />
+  <param name="position_ki" type="double" value="0.0" />
+  <param name="position_kd" type="double" value="0.99" />
+  <param name="speed_kp" type="double" value="7.1521" />
+  <param name="speed_ki" type="double" value="7.1521" />
+  <param name="speed_kd" type="double" value="1.5534" />
+  <param name="yaw_kp" type="double" value="1.6" />
+  <param name="yaw_ki" type="double" value="0.0" />
+  <param name="yaw_kd" type="double" value="0.67" />
+  <param name="altitude_kp" type="double" value="1.33" />
+  <param name="altitude_ki" type="double" value="0.0" />
+  <param name="altitude_kd" type="double" value="0.35" />
+  <param name="position_deltaK" type="double" value="0.35" />
+  <param name="speed_deltaK" type="double" value="0.045" />
+  <param name="yaw_deltaK" type="double" value="1.0" />
+  <param name="altitude_deltaK" type="double" value="-1.0" />
+</node>
+\endverbatim
+

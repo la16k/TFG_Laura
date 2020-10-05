@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: quadrotor_pid_controller_process
+Description: Description of quadrotor_pid_controller_process
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lquadrotor_pid_controller_process
+Requires: roscpp robot_process droneMsgsROS quadrotor_pid_controller

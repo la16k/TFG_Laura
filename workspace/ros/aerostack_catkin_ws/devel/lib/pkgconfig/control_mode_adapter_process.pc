@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: control_mode_adapter_process
+Description: Description of control_mode_adapter_process
+Version: 0.0.0
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/common/msgs_adapters/control_mode_adapter_process/src/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs robot_process droneMsgsROS angles

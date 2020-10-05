@@ -1,0 +1,7 @@
+set(python_based_mission_interpreter_process_SETUP_PY_SETUP_MODULE "distutils.core")
+set(python_based_mission_interpreter_process_SETUP_PY_VERSION "0.0.0")
+set(python_based_mission_interpreter_process_SETUP_PY_SCRIPTS "")
+set(python_based_mission_interpreter_process_SETUP_PY_PACKAGES "executive_engine_process")
+set(python_based_mission_interpreter_process_SETUP_PY_PACKAGE_DIRS "src/executive_engine_process")
+set(python_based_mission_interpreter_process_SETUP_PY_MODULES "")
+set(python_based_mission_interpreter_process_SETUP_PY_MODULE_DIRS "")

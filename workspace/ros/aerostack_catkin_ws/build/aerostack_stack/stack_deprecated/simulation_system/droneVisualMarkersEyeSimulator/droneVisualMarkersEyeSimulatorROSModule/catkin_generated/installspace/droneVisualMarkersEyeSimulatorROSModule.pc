@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: droneVisualMarkersEyeSimulatorROSModule
+Description: Description of droneVisualMarkersEyeSimulatorROSModule
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp droneModuleROS droneMsgsROS droneVisualMarkersEyeSimulator

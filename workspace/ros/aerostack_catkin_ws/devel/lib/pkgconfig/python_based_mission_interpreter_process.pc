@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: python_based_mission_interpreter_process
+Description: Description of python_based_mission_interpreter_process
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lpython_based_mission_interpreter_process
+Requires: droneMsgsROS rospy std_msgs std_srvs

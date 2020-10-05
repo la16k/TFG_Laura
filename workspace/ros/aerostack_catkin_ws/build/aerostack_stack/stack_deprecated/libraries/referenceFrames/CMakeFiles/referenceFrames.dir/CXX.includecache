@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/libraries/referenceFrames/src/include/referenceFrames.h
+sstream
+-
+string
+-
+iostream
+-
+opencv2/core/core.hpp
+-
+opencv2/opencv.hpp
+-
+
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/libraries/referenceFrames/src/sources/referenceFrames.cpp
+referenceFrames.h
+/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack_deprecated/libraries/referenceFrames/src/sources/referenceFrames.h
+cmath
+-
+

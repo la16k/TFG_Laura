@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: attention_to_visual_markers
+Description: Description of attention_to_visual_markers
+Version: 0.1.0
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/execution_control_system/behavior_systems/attention_to_visual_markers/src/include
+Libs: -L${prefix}/lib -lattention_to_visual_markers
+Requires: roscpp nodelet std_msgs drone_process behavior_execution_controller droneMsgsROS geometry_msgs aerostack_msgs

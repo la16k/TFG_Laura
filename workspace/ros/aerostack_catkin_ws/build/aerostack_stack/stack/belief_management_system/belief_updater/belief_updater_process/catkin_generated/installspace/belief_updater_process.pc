@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/install
+
+Name: belief_updater_process
+Description: Description of belief_updater_process
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp drone_process std_msgs droneMsgsROS aerostack_msgs

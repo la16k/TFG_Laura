@@ -1,0 +1,38 @@
+<package>
+	<!-- PUT DESCRIPTION -->
+	<name>droneRobotLocalizationROSModule</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is droneRobotLocalizationROSModuleNode.
+	</description>
+	<author email="hriday.bavle@gmail.com">Hriday Bavle</author>
+	<maintainer email="hriday.bavle@gmail.com">hriday.bavle@gmail.com</maintainer>
+  <license>BSD</license>
+	<url>TODO</url>
+
+
+	<!-- PUT DEPENDENCIES -->
+  <buildtool_depend>catkin</buildtool_depend>
+
+	
+	<build_depend>roscpp</build_depend>
+	<build_depend>droneModuleROS</build_depend>
+	<build_depend>droneMsgsROS</build_depend>
+	<build_depend>tf</build_depend>
+  <build_depend>tf_conversions</build_depend>
+  <build_depend>lib_pugixml</build_depend>
+  <build_depend>lib_cvgutils</build_depend>
+	<build_depend>bebop_msgs</build_depend>
+
+	<run_depend>roscpp</run_depend>
+	<run_depend>droneModuleROS</run_depend>
+	<run_depend>droneMsgsROS</run_depend>
+	<run_depend>tf</run_depend>
+  <run_depend>tf_conversions</run_depend>
+  <run_depend>lib_pugixml</run_depend>
+  <run_depend>lib_cvgutils</run_depend>
+	<run_depend>bebop_msgs</run_depend>
+
+</package>
+
+

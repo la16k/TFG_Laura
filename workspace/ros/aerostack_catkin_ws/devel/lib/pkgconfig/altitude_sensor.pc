@@ -1,0 +1,8 @@
+prefix=/home/lak/workspace/ros/aerostack_catkin_ws/devel
+
+Name: altitude_sensor
+Description: Description of altitude_sensor
+Version: 1.0.0
+Cflags: -I/home/lak/workspace/ros/aerostack_catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp cereal_port std_msgs message_runtime

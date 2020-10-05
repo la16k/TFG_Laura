@@ -1,0 +1,30 @@
+<package>
+	<name>droneSoundROSModule</name>
+	<version>1.0.0</version>
+	<description>
+    		This package is droneSoundROSModule.
+	</description>
+	<author email="jl.sanchez@upm.es">Jose Luis Sanchez-Lopez</author>
+	<maintainer email="jl.sanchez@upm.es">Jose Luis Sanchez-Lopez</maintainer>
+  	<license>GPLv3</license>
+	<url>http://ros.org/wiki/droneSoundROSModule</url>
+
+  	<buildtool_depend>catkin</buildtool_depend>
+
+
+  	<build_depend>roscpp</build_depend>
+    <build_depend>std_msgs</build_depend>
+  	<build_depend>droneMsgsROS</build_depend>
+  	<build_depend>droneModuleROS</build_depend>
+  	<build_depend>sound_play</build_depend>
+
+	<run_depend>roscpp</run_depend>
+  <run_depend>std_msgs</run_depend>
+	<run_depend>droneMsgsROS</run_depend>
+	<run_depend>droneModuleROS</run_depend>
+	<run_depend>sound_play</run_depend>
+
+
+</package>
+
+

@@ -1,0 +1,2 @@
+set(aruco_eye_msgs_MESSAGE_FILES "/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/feature_extraction_system/aruco_eye/aruco_eye/aruco_eye_msgs/msg/Marker.msg;/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/feature_extraction_system/aruco_eye/aruco_eye/aruco_eye_msgs/msg/MarkerList.msg;/home/lak/workspace/ros/aerostack_catkin_ws/src/aerostack_stack/stack/feature_extraction_system/aruco_eye/aruco_eye/aruco_eye_msgs/msg/PointInImage.msg")
+set(aruco_eye_msgs_SERVICE_FILES "")
